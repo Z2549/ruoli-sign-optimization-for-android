@@ -7,19 +7,22 @@
 请自行准备ruoli-sign-optimization程序文件
 
 -----
-]TOC]
-在安卓端运行基于若离方库发展的今日校园自动签到
+[TOC]
+
   一. 配置脚本环境
+ 
     1.安装 Termux
     2.前置
     3.复制文件
     4.安装依赖
     5.config配置
   二. 自动执行脚本
+  
     1.python 定时脚本实现
     2.tasker 或 MacroDroid 实现自启Termux并执行脚本
     3.Termux 自启脚本
   三. 自动充断电
+  
     1.有 root
     2.无 root
 -----
